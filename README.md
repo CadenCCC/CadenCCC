@@ -1,16 +1,18 @@
-## Hi there 👋
+# Caden
 
-<!--
-**CadenCCC/CadenCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Caden. I am a developer that loves cybersecurity... and Minecraft.
+I first started to love cybersecurity when trying to protect one of my projects in the wayy past.
+If there was anything public obfuscated I tried to crack it, like name it, and I've probably tried cracking it.
+I have been to school for cybersecurity, and would like to think of myself as a "professional" whatever that means.
 
-Here are some ideas to get you started:
+I have to separate accounts this one and https://github.com/cryrobtrwew, I just haven't done much there and I want to separate myself from some communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MORE information like current projects will be filled out here as time goes on.
+
+There are multiple Languages I love writing in for example they are listed as:
+<pre>
+- Java (I code this like 87% of the time)
+- Python
+- C++
+- C#
+</pre>
