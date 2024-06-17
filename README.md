@@ -8,10 +8,9 @@ probably tried cracking it.
 I have been to school for cybersecurity, and like to think of myself as a
 professional — whatever that means.
 
-I have to separate accounts, this one
-and [cryrobtrwew](https://github.com/cryrobtrwew).
-I just haven't done much there, and I want to separate myself from some
-communities.
+My alt account is [cryrobtrwew](https://github.com/cryrobtrwew).
+I haven't done much there, but I like using multiple accounts to separate myself
+from some communities.
 
 More information like current projects will be filled out here as time goes on.
 
