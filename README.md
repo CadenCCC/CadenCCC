@@ -3,9 +3,10 @@
 Hello, my name is Caden.
 I am a developer that loves cybersecurity... and Minecraft.
 I first started to love cybersecurity when trying to protect one of my projects.
-If there was anything public/obfuscated, I tried to crack it, name it, and I've
-probably tried cracking it.
-I have been to school for cybersecurity, and like to think of myself as a
+I also enjoy pen-testing and trying to break security.
+Anything public and obfuscated.
+You name it, and I've probably tried cracking it.
+I've been to school for cybersecurity, and like to think of myself as a
 professional — whatever that means.
 
 My alt account is [cryrobtrwew](https://github.com/cryrobtrwew).
